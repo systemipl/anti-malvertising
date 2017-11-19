@@ -53,6 +53,7 @@ zone "charsoftwareinc.com" {type master; file "/etc/bind/db.nullroute";};
 zone "charsoftware.mobi" {type master; file "/etc/bind/db.nullroute";};
 zone "charsoftware.net" {type master; file "/etc/bind/db.nullroute";};
 zone "charsoftware.org" {type master; file "/etc/bind/db.nullroute";};
+zone "data.flurry.com" {type master; file "/etc/bind/db.nullroute";};
 zone "localitics.com" {type master; file "/etc/bind/db.nullroute";};
 zone "localytic.com" {type master; file "/etc/bind/db.nullroute";};
 zone "localytics.com" {type master; file "/etc/bind/db.nullroute";};
@@ -11340,6 +11341,7 @@ zone "tweetcln.com" {type master; file "/etc/bind/db.nullroute";};
 zone "tweetcln.net" {type master; file "/etc/bind/db.nullroute";};
 zone "urbanspinifex.com" {type master; file "/etc/bind/db.nullroute";};
 zone "urbanspinifex.net" {type master; file "/etc/bind/db.nullroute";};
+zone "194792.engine.mobileapptracking.com" {type master; file "/etc/bind/db.nullroute";};
 zone "adattributes.com" {type master; file "/etc/bind/db.nullroute";};
 zone "adpartial.com" {type master; file "/etc/bind/db.nullroute";};
 zone "adsalient.com" {type master; file "/etc/bind/db.nullroute";};
@@ -14203,6 +14205,7 @@ zone "analytics.query.yahoo.com" {type master; file "/etc/bind/db.nullroute";};
 zone "beap-bc.yahoo.com" {type master; file "/etc/bind/db.nullroute";};
 zone "cms.analytics.yahoo.com" {type master; file "/etc/bind/db.nullroute";};
 zone "cookiex.ngd.yahoo.com" {type master; file "/etc/bind/db.nullroute";};
+zone "geo.yahoo.com" {type master; file "/etc/bind/db.nullroute";};
 zone "pr.ybp.yahoo.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- Babator
