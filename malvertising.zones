@@ -18209,6 +18209,10 @@ zone "tbliab.com" {type master; file "/etc/bind/db.nullroute";};
 zone "tbliab.mobi" {type master; file "/etc/bind/db.nullroute";};
 zone "tbliab.net" {type master; file "/etc/bind/db.nullroute";};
 zone "tbliab.us" {type master; file "/etc/bind/db.nullroute";};
+zone "brightline.ae" {type master; file "/etc/bind/db.nullroute";};
+zone "brightline.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "brightline.ca" {type master; file "/etc/bind/db.nullroute";};
+zone "brightline.tv" {type master; file "/etc/bind/db.nullroute";};
 
 // -- Mailketeer email spying
 zone "mailketeer.com" {type master; file "/etc/bind/db.nullroute";};
