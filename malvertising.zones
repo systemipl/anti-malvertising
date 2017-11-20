@@ -19497,3 +19497,6 @@ zone "pinpoint.us-east-1.amazonaws.com" {type master; file "/etc/bind/db.nullrou
 zone "pinpoint.us-east-2.amazonaws.com" {type master; file "/etc/bind/db.nullroute";};
 zone "pinpoint.us-west-1.amazonaws.com" {type master; file "/etc/bind/db.nullroute";};
 zone "pinpoint.us-west-2.amazonaws.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Looks like Kickstarter email tracking (email spying)
+zone "emails.kickstarter.com" {type master; file "/etc/bind/db.nullroute";};
