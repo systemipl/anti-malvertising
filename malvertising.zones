@@ -9,7 +9,7 @@ zone "microsoft-hohm.net" {type master; file "/etc/bind/db.nullroute";};
 zone "msedge.net" {type master; file "/etc/bind/db.nullroute";};
 zone "msedge.com" {type master; file "/etc/bind/db.nullroute";};
 
-// User avatars... and tracking
+// User avatars... and tracking, plus an MD5 hash of your email adress
 zone "gravatar.com" {type master; file "/etc/bind/db.nullroute";};
 
 // OpenCandy malvertising
@@ -37,7 +37,6 @@ zone "leanplum.com" {type master; file "/etc/bind/db.nullroute";};
 // zone "qq.com" {type master; file "/etc/bind/db.nullroute";};
 
 // Android analytics, adverts, malvertising, tracking, etc.
-zone "gameanalytics.com" {type master; file "/etc/bind/db.nullroute";};
 zone "adactioninteractive.com" {type master; file "/etc/bind/db.nullroute";};
 zone "apsalar.com" {type master; file "/etc/bind/db.nullroute";};
 zone "appanalytics101.com" {type master; file "/etc/bind/db.nullroute";};
@@ -5693,8 +5692,7 @@ zone "frontlinedirectinc.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- Apptentive
 zone "apptention.com" {type master; file "/etc/bind/db.nullroute";};
-// X-out for Star Trek Timelines
-// zone "apptentive.com" {type master; file "/etc/bind/db.nullroute";};
+zone "apptentive.com" {type master; file "/etc/bind/db.nullroute";};
 zone "apptentive.org" {type master; file "/etc/bind/db.nullroute";};
 zone "aptention.com" {type master; file "/etc/bind/db.nullroute";};
 zone "aptentive.com" {type master; file "/etc/bind/db.nullroute";};
@@ -5715,7 +5713,7 @@ zone "appclick.co" {type master; file "/etc/bind/db.nullroute";};
 zone "appclick.com" {type master; file "/etc/bind/db.nullroute";};
 zone "appclick.net" {type master; file "/etc/bind/db.nullroute";};
 
-// -- deltaDNA
+// -- deltaDNA / GameAnalytics
 zone "delta-dna.com" {type master; file "/etc/bind/db.nullroute";};
 zone "delta-dna.net" {type master; file "/etc/bind/db.nullroute";};
 zone "deltadna.com" {type master; file "/etc/bind/db.nullroute";};
@@ -5730,6 +5728,20 @@ zone "gamesanalytics.net" {type master; file "/etc/bind/db.nullroute";};
 zone "gamesanalytics.org" {type master; file "/etc/bind/db.nullroute";};
 zone "gamesconsultancy.com" {type master; file "/etc/bind/db.nullroute";};
 zone "giaf.net" {type master; file "/etc/bind/db.nullroute";};
+zone "deltadna.io" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.at" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.co" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.de" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.fr" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.it" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.net" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.org" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.us" {type master; file "/etc/bind/db.nullroute";};
+zone "gamesanalytics.de" {type master; file "/etc/bind/db.nullroute";};
+zone "gamesanalytics.xyz" {type master; file "/etc/bind/db.nullroute";};
+zone "sjgdigital.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- FusePowered
 zone "adrally.biz" {type master; file "/etc/bind/db.nullroute";};
@@ -8015,13 +8027,9 @@ zone "tinypass.net" {type master; file "/etc/bind/db.nullroute";};
 zone "trafficmagazine.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- Unity / Unity 3D tracking and advertising
-// X-out for Star Trek Timelines
-// zone "stats.unity3d.com" {type master; file "/etc/bind/db.nullroute";};
-// X-out for Star Trek Timelines
-// zone "unityads.unity3d.com" {type master; file "/etc/bind/db.nullroute";};
-// X-out for Star Trek Timelines
-// zone "ads.unity3d.com" {type master; file "/etc/bind/db.nullroute";};
-// zone "cloud.unity3d.com" {type master; file "/etc/bind/db.nullroute";};
+zone "stats.unity3d.com" {type master; file "/etc/bind/db.nullroute";};
+zone "unityads.unity3d.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ads.unity3d.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- DoubleVerify
 zone "agency-adserver.com" {type master; file "/etc/bind/db.nullroute";};
@@ -18218,10 +18226,21 @@ zone "brightline.tv" {type master; file "/etc/bind/db.nullroute";};
 zone "mailketeer.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- Scientific Revenue (IAP analytics for differential pricing and IAP revenue maximization)
-// zone "scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
-// zone "scientificrevenue.info" {type master; file "/etc/bind/db.nullroute";};
-// zone "scientificrevenue.net" {type master; file "/etc/bind/db.nullroute";};
-// zone "scientificrevenue.org" {type master; file "/etc/bind/db.nullroute";};
+zone "scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "scientificrevenue.info" {type master; file "/etc/bind/db.nullroute";};
+zone "scientificrevenue.net" {type master; file "/etc/bind/db.nullroute";};
+zone "scientificrevenue.org" {type master; file "/etc/bind/db.nullroute";};
+zone "bigbluebubble-ws.scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "creativemobile-ws.scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "fingersoft-log.scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "games24x7-log.scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "glu-ws.scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "glutap-log.scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "mobilityware-log.scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "nanobit-ws.scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "wooga-log.scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
+zone "www.scientificrevenue.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- CoinHive (Bitcoin mining scam stealing CPU time)
 zone "1-family.com" {type master; file "/etc/bind/db.nullroute";};
