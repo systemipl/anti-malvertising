@@ -19174,3 +19174,8 @@ zone "pinpoint.us-west-2.amazonaws.com" {type master; file "/etc/bind/db.nullrou
 
 // -- Looks like Kickstarter email tracking (email spying)
 zone "emails.kickstarter.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Omega Ad Network
+zone "omega-inc.co" {type master; file "/etc/bind/db.nullroute";};
+zone "omega-ad.com" {type master; file "/etc/bind/db.nullroute";};
+zone "omega-adnetwork.com" {type master; file "/etc/bind/db.nullroute";};
