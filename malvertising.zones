@@ -19179,3 +19179,12 @@ zone "emails.kickstarter.com" {type master; file "/etc/bind/db.nullroute";};
 zone "omega-inc.co" {type master; file "/etc/bind/db.nullroute";};
 zone "omega-ad.com" {type master; file "/etc/bind/db.nullroute";};
 zone "omega-adnetwork.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- "Target" advertising service by Mail.ru
+// Nameservers respond to ANY name query with a valid A record and IP that
+// eventually redirects to my.com or another my.com server.
+// Conclusion: Entire domain must be blocked.
+// zone "mytarget.my.com" {type master; file "/etc/bind/db.nullroute";};
+// zone "target.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "my.com" {type master; file "/etc/bind/db.nullroute";};
+
