@@ -19181,10 +19181,40 @@ zone "omega-ad.com" {type master; file "/etc/bind/db.nullroute";};
 zone "omega-adnetwork.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- "Target" advertising service by Mail.ru
-// Nameservers respond to ANY name query with a valid A record and IP that
-// eventually redirects to my.com or another my.com server.
+// HISTORICAL: Nameservers respond to ANY name query with a valid A record and
+// IP that eventually redirects to my.com or another my.com server.
 // Conclusion: Entire domain must be blocked.
-// zone "mytarget.my.com" {type master; file "/etc/bind/db.nullroute";};
-// zone "target.my.com" {type master; file "/etc/bind/db.nullroute";};
-zone "my.com" {type master; file "/etc/bind/db.nullroute";};
-
+// FIXED: Admins tried to prevent host enumeration, but badly. Hopefully only
+// the following hosts need to be blocked.
+// zone "my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "mytarget.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "target.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector1.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector2.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector3.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector4.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector5.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector6.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector7.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector8.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector9.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector10.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector11.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector12.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector13.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector14.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector15.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector16.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector17.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector18.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector19.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector20.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector21.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector22.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector23.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector24.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector25.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector26.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector27.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector28.my.com" {type master; file "/etc/bind/db.nullroute";};
+zone "collector29.my.com" {type master; file "/etc/bind/db.nullroute";};
