@@ -18099,9 +18099,6 @@ zone "mobiledevhq.co" {type master; file "/etc/bind/db.nullroute";};
 // -- Unknown adversary; possible malware
 zone "universeclearbinaries.com" {type master; file "/etc/bind/db.nullroute";};
 
-// -- Unknown adversary; possible malware
-zone "possinglese.info" {type master; file "/etc/bind/db.nullroute";};
-
 // -- MellowAds / Moon [Bitcoin,Dogecoin,Litecoin] / Passive Bitcoin (related?)
 // UPDATE: Almost all domains protected by proxy registrars, but finally found
 // common thread via Google Analytics ID UA-49827542:
