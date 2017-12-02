@@ -16534,7 +16534,7 @@ zone "cdn-bgp.bluestacks.com" {type master; file "/etc/bind/db.nullroute";};
 zone "cdn3.bluestacks.com" {type master; file "/etc/bind/db.nullroute";};
 zone "cdn1.bluestacks.com" {type master; file "/etc/bind/db.nullroute";};
 
-// -- Yandex Analytics / AppMetrica / WebVisor
+// -- Yandex Analytics / AppMetrica / WebVisor #SessionReplayAttacks
 zone "metrica.yandex.com" {type master; file "/etc/bind/db.nullroute";};
 zone "webvisor.com" {type master; file "/etc/bind/db.nullroute";};
 zone "appmetrica.com" {type master; file "/etc/bind/db.nullroute";};
@@ -16545,6 +16545,11 @@ zone "beta.metrika.yandex.com" {type master; file "/etc/bind/db.nullroute";};
 zone "metric.yandex.com" {type master; file "/etc/bind/db.nullroute";};
 zone "metrika.yandex.com" {type master; file "/etc/bind/db.nullroute";};
 zone "beta.metrica.yandex.com" {type master; file "/etc/bind/db.nullroute";};
+zone "appmetrica.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "appmetrika.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "appmetrica.yandex.com" {type master; file "/etc/bind/db.nullroute";};
+zone "appmetrica.yandex.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "mc.yandex.ru" {type master; file "/etc/bind/db.nullroute";};
 
 // -- Smaato Inc
 zone "ads-for-apps.com" {type master; file "/etc/bind/db.nullroute";};
@@ -19246,8 +19251,116 @@ zone "exacttarget.ws" {type master; file "/etc/bind/db.nullroute";};
 
 // -- CheetahMail (now owned by Experian) email spying
 zone "cheetahmail.com" {type master; file "/etc/bind/db.nullroute";};
+zone "chtah.cf" {type master; file "/etc/bind/db.nullroute";};
+zone "chtah.co" {type master; file "/etc/bind/db.nullroute";};
 zone "chtah.com" {type master; file "/etc/bind/db.nullroute";};
+zone "chtah.in" {type master; file "/etc/bind/db.nullroute";};
+zone "chtah.info" {type master; file "/etc/bind/db.nullroute";};
 zone "chtah.net" {type master; file "/etc/bind/db.nullroute";};
 zone "chtahs.com" {type master; file "/etc/bind/db.nullroute";};
 zone "eccmp.com" {type master; file "/etc/bind/db.nullroute";};
 zone "tm0.com" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.de" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.email" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.es" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.eu" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.fr" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.info" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.it" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.net" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.nl" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.sg" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.asia" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.co" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.in" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.io" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.xxx" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.net.au" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.com.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.co.nz" {type master; file "/etc/bind/db.nullroute";};
+zone "cheetahmail.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "exprpt.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "exprpt.com" {type master; file "/etc/bind/db.nullroute";};
+zone "exprpt.info" {type master; file "/etc/bind/db.nullroute";};
+zone "exprpt.net" {type master; file "/etc/bind/db.nullroute";};
+zone "exprpt.org" {type master; file "/etc/bind/db.nullroute";};
+
+// -- LuckyOrange #SessionReplayAttacks
+// -- Registrant Name:	Brian Gruber
+// -- Registrant Organization:	Brian Gruber
+// -- Registrant Street:	8401 W 97th Terr
+// -- Registrant City:	Overland Park
+// -- Registrant State/Province:	KS
+// -- Registrant Postal Code	66212
+// -- Registrant Country:	US
+// -- Registrant Phone:	+1.9548052585
+// -- Registrant Email:	brian@briangruber.com
+zone "d10lpsik1i8c69.cloudfront.net" {type master; file "/etc/bind/db.nullroute";};
+zone "ca19444.luckyorange.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ca4112.luckyorange.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ca434916.luckyorange.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ca507345.luckyorange.com" {type master; file "/etc/bind/db.nullroute";};
+zone "luckyorange.com" {type master; file "/etc/bind/db.nullroute";};
+zone "briangruber.com" {type master; file "/etc/bind/db.nullroute";};
+zone "fishpish.com" {type master; file "/etc/bind/db.nullroute";};
+zone "luckyorange.net" {type master; file "/etc/bind/db.nullroute";};
+zone "luckyorange.org" {type master; file "/etc/bind/db.nullroute";};
+zone "luckyorange.rocks" {type master; file "/etc/bind/db.nullroute";};
+zone "nocookiesluckyorange.org" {type master; file "/etc/bind/db.nullroute";};
+zone "webbychat.com" {type master; file "/etc/bind/db.nullroute";};
+zone "iheardata.com" {type master; file "/etc/bind/db.nullroute";};
+zone "luckyorange.co" {type master; file "/etc/bind/db.nullroute";};
+zone "luckyorange.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "574.in" {type master; file "/etc/bind/db.nullroute";};
+zone "736.in" {type master; file "/etc/bind/db.nullroute";};
+zone "762.in" {type master; file "/etc/bind/db.nullroute";};
+zone "837.in" {type master; file "/etc/bind/db.nullroute";};
+zone "884.in" {type master; file "/etc/bind/db.nullroute";};
+zone "963.in" {type master; file "/etc/bind/db.nullroute";};
+zone "994.in" {type master; file "/etc/bind/db.nullroute";};
+zone "carn.in" {type master; file "/etc/bind/db.nullroute";};
+zone "eeee.in" {type master; file "/etc/bind/db.nullroute";};
+zone "nev.club" {type master; file "/etc/bind/db.nullroute";};
+zone "charizardstop.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Tealeaf (now IBM) #SessionReplayAttacks
+zone "tealeaf.asia" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.at" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.be" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.by" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.ca" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.cc" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.co" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.com" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.cz" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.de" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.design" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.dk" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.es" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.eu" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.gr" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.ie" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.in" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.info" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.lu" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.mobi" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.net" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.one" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.org" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.pl" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.pro" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.pt" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.sg" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.shop" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.store" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.tips" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.top" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.tv" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.us" {type master; file "/etc/bind/db.nullroute";};
+zone "tealeaf.website" {type master; file "/etc/bind/db.nullroute";};
