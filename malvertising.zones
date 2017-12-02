@@ -19230,7 +19230,6 @@ zone "exacttarget.email" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.eu" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.expert" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.fi" {type master; file "/etc/bind/db.nullroute";};
-zone "and" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.fr" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.cc" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.cd" {type master; file "/etc/bind/db.nullroute";};
@@ -19244,3 +19243,11 @@ zone "exacttarget.tv" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.us" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.vip" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.ws" {type master; file "/etc/bind/db.nullroute";};
+
+// -- CheetahMail (now owned by Experian) email spying
+zone "cheetahmail.com" {type master; file "/etc/bind/db.nullroute";};
+zone "chtah.com" {type master; file "/etc/bind/db.nullroute";};
+zone "chtah.net" {type master; file "/etc/bind/db.nullroute";};
+zone "chtahs.com" {type master; file "/etc/bind/db.nullroute";};
+zone "eccmp.com" {type master; file "/etc/bind/db.nullroute";};
+zone "tm0.com" {type master; file "/etc/bind/db.nullroute";};
