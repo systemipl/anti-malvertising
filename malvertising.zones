@@ -11979,8 +11979,8 @@ zone "px.spiceworks.com" {type master; file "/etc/bind/db.nullroute";};
 zone "hubspot.eu" {type master; file "/etc/bind/db.nullroute";};
 // FIXME: needs fine-tuning
 zone "hubspot.com" {type master; file "/etc/bind/db.nullroute";};
-// FIXME: needs fine-tuning
-zone "hubspot.net" {type master; file "/etc/bind/db.nullroute";};
+// FIXME: sites.hubspot.net hosts legitimate blogs and other sites
+// zone "hubspot.net" {type master; file "/etc/bind/db.nullroute";};
 zone "hubspot.org" {type master; file "/etc/bind/db.nullroute";};
 zone "hubspot.cloud" {type master; file "/etc/bind/db.nullroute";};
 zone "hubspot.io" {type master; file "/etc/bind/db.nullroute";};
