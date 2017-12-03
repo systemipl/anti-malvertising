@@ -19831,3 +19831,48 @@ zone "hotjar.link" {type master; file "/etc/bind/db.nullroute";};
 zone "hotjar.ru" {type master; file "/etc/bind/db.nullroute";};
 zone "hotjar.xyz" {type master; file "/etc/bind/db.nullroute";};
 zone "htojar.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- ClickTale / Yoav Persky #SessionReplayAttacks
+// -- Registrant Name: Yoav Persky
+// -- Registrant Organization: ClickTale Ltd
+// -- Registrant Street: Shoham 2
+// -- Registrant City: Ramat-Gan
+// -- Registrant State/Province: Center
+// -- Registrant Postal Code: 52521
+// -- Registrant Country: IL
+// -- Registrant Phone: +972.737060700
+// -- Registrant Email: domains@clicktale.com
+zone "clicktale.net" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ajaxanalytics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "algocx.com" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktail.com" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale-analytics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale-samples.com" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.co" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.org" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktaleanalytics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktalepartners.com" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktales.com" {type master; file "/etc/bind/db.nullroute";};
+zone "clictale.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ctqatest.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "ctqatest.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ctqatest.info" {type master; file "/etc/bind/db.nullroute";};
+zone "ctqatest.net" {type master; file "/etc/bind/db.nullroute";};
+zone "ctqatest.org" {type master; file "/etc/bind/db.nullroute";};
+zone "digitalbehavior.net" {type master; file "/etc/bind/db.nullroute";};
+zone "digitalbehavior.org" {type master; file "/etc/bind/db.nullroute";};
+zone "electromaven.com" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.ca" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.cz" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.de" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.es" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.fr" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.in" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.it" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.jp" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.nl" {type master; file "/etc/bind/db.nullroute";};
+zone "clicktale.com.mx" {type master; file "/etc/bind/db.nullroute";};
