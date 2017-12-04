@@ -20011,19 +20011,10 @@ zone "admaven.com" {type master; file "/etc/bind/db.nullroute";};
 zone "roughted.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- Giant lump of cryptojackers. Each needs individual research.
-zone "2giga.link" {type master; file "/etc/bind/db.nullroute";};
-zone "ad-miner.com" {type master; file "/etc/bind/db.nullroute";};
-zone "afminer.com" {type master; file "/etc/bind/db.nullroute";};
 zone "anime.reactor.cc" {type master; file "/etc/bind/db.nullroute";};
-zone "cdn.cloudcoins.co" {type master; file "/etc/bind/db.nullroute";};
-zone "cloudcoins.co" {type master; file "/etc/bind/db.nullroute";};
 zone "coin-have.com" {type master; file "/etc/bind/db.nullroute";};
-zone "coinblind.com" {type master; file "/etc/bind/db.nullroute";};
 zone "coinerra.com" {type master; file "/etc/bind/db.nullroute";};
-zone "coinlab.biz" {type master; file "/etc/bind/db.nullroute";};
 zone "coinnebula.com" {type master; file "/etc/bind/db.nullroute";};
-zone "cookiescript.info" {type master; file "/etc/bind/db.nullroute";};
-zone "cookiescriptcdn.pro" {type master; file "/etc/bind/db.nullroute";};
 zone "crypto-loot.com" {type master; file "/etc/bind/db.nullroute";};
 zone "edgeno.de" {type master; file "/etc/bind/db.nullroute";};
 zone "inwemo.com" {type master; file "/etc/bind/db.nullroute";};
@@ -20049,3 +20040,480 @@ zone "rocks.io" {type master; file "/etc/bind/db.nullroute";};
 zone "server.jsecoin.com" {type master; file "/etc/bind/db.nullroute";};
 zone "static.reasedoper.pw" {type master; file "/etc/bind/db.nullroute";};
 zone "webmine.cz" {type master; file "/etc/bind/db.nullroute";};
+
+// -- "2Giga", unable to find related domains. #Cryptojacking
+zone "2giga.link" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Ad-Miner #Cryptojacking
+// -- Registrant Name:	M Santifort
+// -- Registrant Street:	fretweide 29
+// -- Registrant City:	Zoetermeer
+// -- Registrant Postal Code:	2727HG
+// -- Registrant Country:	NL
+// -- Registrant Phone:	+31.628463757
+// -- Registrant Email:	mike.sant@ziggo.nl
+// ---
+zone "ad-miner.com" {type master; file "/etc/bind/db.nullroute";};
+zone "agarx.xyz" {type master; file "/etc/bind/db.nullroute";};
+zone "automated-success-system.com" {type master; file "/etc/bind/db.nullroute";};
+zone "diepx.xyz" {type master; file "/etc/bind/db.nullroute";};
+zone "hupload.xyz" {type master; file "/etc/bind/db.nullroute";};
+zone "licensekey.xyz" {type master; file "/etc/bind/db.nullroute";};
+zone "nedbtc.com" {type master; file "/etc/bind/db.nullroute";};
+zone "nedcoin.info" {type master; file "/etc/bind/db.nullroute";};
+zone "nedcoin.org" {type master; file "/etc/bind/db.nullroute";};
+
+// -- "AFMiner" #Cryptojacking
+// -- Registrant Name:	Ivan Petrovich S
+// -- Registrant Organization:	Private Person
+// -- Registrant Street:	ul.Tverskaya, d.16, kv.95
+// -- Registrant City:	Moscow
+// -- Registrant State/Province:	Moskovskaya obl.
+// -- Registrant Postal Code:	443109
+// -- Registrant Country:	RU
+// -- Registrant Phone:	+74956547854
+// -- Registrant Fax:	+74956547854
+// -- Registrant Email:	domus.faunus@gmail.com
+// ---
+zone "afminer.com" {type master; file "/etc/bind/db.nullroute";};
+zone "2binomo.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Cloudcoins #Cryptojacking
+zone "cloudcoins.co" {type master; file "/etc/bind/db.nullroute";};
+zone "cloudcoins.com" {type master; file "/etc/bind/db.nullroute";};
+zone "cloudcoins.eu" {type master; file "/etc/bind/db.nullroute";};
+zone "cloudcoins.info" {type master; file "/etc/bind/db.nullroute";};
+zone "cloudcoins.net" {type master; file "/etc/bind/db.nullroute";};
+zone "cloudcoins.nl" {type master; file "/etc/bind/db.nullroute";};
+zone "cloudcoins.org" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Coinblind #Cryptojacking
+// -- Registrant Name:	Polichetti Srls
+// -- Registrant Organization:	Polichetti Srls
+// -- Registrant Street:	VIA G MASCOLO 1
+// -- Registrant City:	CAVA DE TIRRENI
+// -- Registrant State/Province:	SA
+// -- Registrant Postal Code:	84013
+// -- Registrant Country:	IT
+// -- Registrant Phone:	+39.3453448337
+// -- Registrant Email:	domenico@polichetti.it
+// ---
+zone "coinblind.com" {type master; file "/etc/bind/db.nullroute";};
+zone "assuntapolichetti.com" {type master; file "/etc/bind/db.nullroute";};
+zone "mercycoin.org" {type master; file "/etc/bind/db.nullroute";};
+zone "polisales.com" {type master; file "/etc/bind/db.nullroute";};
+zone "schat.info" {type master; file "/etc/bind/db.nullroute";};
+zone "schat.online" {type master; file "/etc/bind/db.nullroute";};
+zone "traceticket.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Coinlab #Cryptojacking
+// WHOIS data tenuous; may be inaccurate.
+// ---
+// -- Registrant Name:	Otto Hirr
+// -- Registrant Organization:	OLAB Inc
+// -- Registrant Street:	19575 SW Jessica Ct
+// -- Registrant City:	Aloha
+// -- Registrant State/Province:	Oregon
+// -- Registrant Postal Code:	97006
+// -- Registrant Country:	US
+// -- Registrant Phone:	+1.5036806390
+// -- Registrant Email:	otto.hirr@olabinc.com
+// ---
+// -- Registrant Name:	Vadim Stadnik
+// -- Registrant Organization:	Private Person
+// -- Registrant Street:	Kurortnaya 93 kv 1
+// -- Registrant City:	Saki
+// -- Registrant State/Province:	Respublika Krim
+// -- Registrant Postal Code:	296500
+// -- Registrant Country:	RU
+// -- Registrant Phone:	+7.9787323410
+// -- Registrant Email:	h_game@bk.ru
+// ---
+// -- Registry Registrant ID:	C159237358-CNIC
+// -- Registrant Name:	Konstantin Dmitriev
+// -- Registrant Organization:	Konstantin Dmitriev
+// -- Registrant Street:	Katushechnaya 56-65
+// -- Registrant City:	Kostroma
+// -- Registrant State/Province:	Kostroma
+// -- Registrant Postal Code:	156013
+// -- Registrant Country:	RU
+// -- Registrant Phone:	+7.9632185074
+// -- Registrant Fax:	Registrant Email:	wapworker@mail.ru
+// ---
+zone "coinlab.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.capital" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.cloud" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.co" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.co.in" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.com" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.eu" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.in" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.info" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.pro" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.us" {type master; file "/etc/bind/db.nullroute";};
+zone "coinlab.xyz" {type master; file "/etc/bind/db.nullroute";};
+zone "olabinc.com" {type master; file "/etc/bind/db.nullroute";};
+// Unsure about following domains. They are at minimum highly sketchy.
+zone "cryptogames.info" {type master; file "/etc/bind/db.nullroute";};
+zone "foodstory.life" {type master; file "/etc/bind/db.nullroute";};
+zone "idiscount.shop" {type master; file "/etc/bind/db.nullroute";};
+zone "krasnodar.cafe" {type master; file "/etc/bind/db.nullroute";};
+zone "krasnodar.clinic" {type master; file "/etc/bind/db.nullroute";};
+zone "krasnodar.coffee" {type master; file "/etc/bind/db.nullroute";};
+zone "krasnodar.haus" {type master; file "/etc/bind/db.nullroute";};
+zone "krasnodar.news" {type master; file "/etc/bind/db.nullroute";};
+zone "krasnodar.style" {type master; file "/etc/bind/db.nullroute";};
+zone "kuban.team" {type master; file "/etc/bind/db.nullroute";};
+zone "miz.su" {type master; file "/etc/bind/db.nullroute";};
+zone "napoker.net" {type master; file "/etc/bind/db.nullroute";};
+zone "pokernavi.net" {type master; file "/etc/bind/db.nullroute";};
+zone "smartgrad.shop" {type master; file "/etc/bind/db.nullroute";};
+zone "sochistroy.net" {type master; file "/etc/bind/db.nullroute";};
+zone "startapp.life" {type master; file "/etc/bind/db.nullroute";};
+zone "tose.shop" {type master; file "/etc/bind/db.nullroute";};
+zone "voltplus.shop" {type master; file "/etc/bind/db.nullroute";};
+zone "webfinans.net" {type master; file "/etc/bind/db.nullroute";};
+zone "ll2.life" {type master; file "/etc/bind/db.nullroute";};
+
+// -- CookieScript #Cryptojacking
+zone "cookie-policy.org" {type master; file "/etc/bind/db.nullroute";};
+zone "cookiescript.info" {type master; file "/etc/bind/db.nullroute";};
+zone "cookiescriptcdn.pro" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Decibel Insight #SessionReplayAttacks
+zone "decibelinsight.net" {type master; file "/etc/bind/db.nullroute";};
+zone "decibel.support" {type master; file "/etc/bind/db.nullroute";};
+zone "decibel.training" {type master; file "/etc/bind/db.nullroute";};
+zone "decibelanalytics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "decibelcore.com" {type master; file "/etc/bind/db.nullroute";};
+zone "decibelinsight.com" {type master; file "/etc/bind/db.nullroute";};
+zone "decibelinsights.com" {type master; file "/etc/bind/db.nullroute";};
+zone "decibelinsight.co" {type master; file "/etc/bind/db.nullroute";};
+
+// -- ForeSee #SessionReplayAttacks
+zone "foresee.com" {type master; file "/etc/bind/db.nullroute";};
+zone "365dzfp.com" {type master; file "/etc/bind/db.nullroute";};
+zone "4009912366.com" {type master; file "/etc/bind/db.nullroute";};
+zone "4c-foresee.com" {type master; file "/etc/bind/db.nullroute";};
+zone "4see.mobi" {type master; file "/etc/bind/db.nullroute";};
+zone "adistributions.com" {type master; file "/etc/bind/db.nullroute";};
+zone "aiviis.com" {type master; file "/etc/bind/db.nullroute";};
+zone "campusoriental.com" {type master; file "/etc/bind/db.nullroute";};
+zone "chengsfamily.com" {type master; file "/etc/bind/db.nullroute";};
+zone "chromess.com" {type master; file "/etc/bind/db.nullroute";};
+zone "defa.co" {type master; file "/etc/bind/db.nullroute";};
+zone "defa.com.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "dotsmatter.com" {type master; file "/etc/bind/db.nullroute";};
+zone "dotsmatters.com" {type master; file "/etc/bind/db.nullroute";};
+zone "dotsopen.com" {type master; file "/etc/bind/db.nullroute";};
+zone "dzfpyun.com" {type master; file "/etc/bind/db.nullroute";};
+zone "epopz.com" {type master; file "/etc/bind/db.nullroute";};
+zone "esv.com.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "everydaycredits.com" {type master; file "/etc/bind/db.nullroute";};
+zone "foresee.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "foresee.com.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "foresee.hk" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseecreation.com" {type master; file "/etc/bind/db.nullroute";};
+zone "frontrend.com" {type master; file "/etc/bind/db.nullroute";};
+zone "inductionlightings.com" {type master; file "/etc/bind/db.nullroute";};
+zone "initialm.com" {type master; file "/etc/bind/db.nullroute";};
+zone "itexcess.com" {type master; file "/etc/bind/db.nullroute";};
+zone "javoncheng.com" {type master; file "/etc/bind/db.nullroute";};
+zone "jc-union.com" {type master; file "/etc/bind/db.nullroute";};
+zone "jchl.com" {type master; file "/etc/bind/db.nullroute";};
+zone "jchl365.com" {type master; file "/etc/bind/db.nullroute";};
+zone "jchlmall.com" {type master; file "/etc/bind/db.nullroute";};
+zone "metroecology.com" {type master; file "/etc/bind/db.nullroute";};
+zone "metroelegance.com" {type master; file "/etc/bind/db.nullroute";};
+zone "metroelegant.com" {type master; file "/etc/bind/db.nullroute";};
+zone "miniteeny.com" {type master; file "/etc/bind/db.nullroute";};
+zone "nowtiot.com" {type master; file "/etc/bind/db.nullroute";};
+zone "oriener.com" {type master; file "/etc/bind/db.nullroute";};
+zone "orientalpublications.com" {type master; file "/etc/bind/db.nullroute";};
+zone "oripost.com" {type master; file "/etc/bind/db.nullroute";};
+zone "outra.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ozcampus.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ozunis.com" {type master; file "/etc/bind/db.nullroute";};
+zone "palmston.com" {type master; file "/etc/bind/db.nullroute";};
+zone "pinaapps.com" {type master; file "/etc/bind/db.nullroute";};
+zone "pinapretty.com" {type master; file "/etc/bind/db.nullroute";};
+zone "privatedomainr.com" {type master; file "/etc/bind/db.nullroute";};
+zone "redspade.com" {type master; file "/etc/bind/db.nullroute";};
+zone "retailshakennotstirred.com" {type master; file "/etc/bind/db.nullroute";};
+zone "thedigitalcitizen.com" {type master; file "/etc/bind/db.nullroute";};
+zone "tiotnow.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ushopurate.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ushopurate.mobi" {type master; file "/etc/bind/db.nullroute";};
+zone "veronicacheng.com" {type master; file "/etc/bind/db.nullroute";};
+zone "wintax.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "wintax.com.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "wordofmouthindex.com" {type master; file "/etc/bind/db.nullroute";};
+zone "wordofmouthindex.net" {type master; file "/etc/bind/db.nullroute";};
+zone "xilcom.com" {type master; file "/etc/bind/db.nullroute";};
+zone "xuites.com" {type master; file "/etc/bind/db.nullroute";};
+zone "youshopyourate.com" {type master; file "/etc/bind/db.nullroute";};
+zone "youshopyourate.mobi" {type master; file "/etc/bind/db.nullroute";};
+zone "customermetrics411.com" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeresults.com" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeresults.net" {type master; file "/etc/bind/db.nullroute";};
+zone "freedyourmind.com" {type master; file "/etc/bind/db.nullroute";};
+zone "foresee.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeresults.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeresults.info" {type master; file "/etc/bind/db.nullroute";};
+zone "foresee.info" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeresults.org" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeresults.us" {type master; file "/etc/bind/db.nullroute";};
+zone "foresee.us" {type master; file "/etc/bind/db.nullroute";};
+zone "foresee.ws" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeresults.ws" {type master; file "/etc/bind/db.nullroute";};
+zone "customermetrics411.info" {type master; file "/etc/bind/db.nullroute";};
+zone "4cresults.com" {type master; file "/etc/bind/db.nullroute";};
+zone "4csurvey.com" {type master; file "/etc/bind/db.nullroute";};
+zone "4seeresults.com" {type master; file "/etc/bind/db.nullroute";};
+zone "digitalcitizenblog.com" {type master; file "/etc/bind/db.nullroute";};
+zone "digitalcitizens.com" {type master; file "/etc/bind/db.nullroute";};
+zone "egovperformance.com" {type master; file "/etc/bind/db.nullroute";};
+zone "forcresults.com" {type master; file "/etc/bind/db.nullroute";};
+zone "forecresults.com" {type master; file "/etc/bind/db.nullroute";};
+zone "foresee-results.com" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeblog.com" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeresults.ca" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeresultssessionreplay.com" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseeresultssessionreplay.net" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseesessionreplay.com" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseesessionreplay.net" {type master; file "/etc/bind/db.nullroute";};
+zone "foreseetechnology.com" {type master; file "/etc/bind/db.nullroute";};
+zone "forseeresults.com" {type master; file "/etc/bind/db.nullroute";};
+zone "fourcresults.com" {type master; file "/etc/bind/db.nullroute";};
+zone "fourseeresults.com" {type master; file "/etc/bind/db.nullroute";};
+zone "freedyourmind.net" {type master; file "/etc/bind/db.nullroute";};
+zone "fsrsurvey.com" {type master; file "/etc/bind/db.nullroute";};
+zone "larryfreed.info" {type master; file "/etc/bind/db.nullroute";};
+zone "larryfreed.net" {type master; file "/etc/bind/db.nullroute";};
+zone "wordofmouthindex.biz" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Inspectlet #SessionReplayAttacks
+// ---
+// -- Registrant Name:	RACHIT GUPTA
+// -- Registrant Organization:	INSPECTLET
+// -- Registrant Street:	21307 GLEN PL APT #3, CUPERTINO CALIFORNIA
+// -- Registrant City:	CUPERTINO
+// -- Registrant State/Province:	CALIFORNIA
+// -- Registrant Postal Code:	95014
+// -- Registrant Country:	US
+// -- Registrant Phone:	+1.408253
+// -- Registrant Phone Ext:	2219
+// -- Registrant Email:	RACHIT0801@GMAIL.COM
+// ---
+// -- Registrant Name:	RACHIT GUPTA
+// -- Registrant Street:	1135 SCOTLAND DR
+// -- Registrant City:	CUPERTINO
+// -- Registrant State/Province:	CA
+// -- Registrant Postal Code:	95014
+// -- Registrant Country:	US
+// -- Registrant Phone:	+1.4086818572
+// -- Registrant Email:	ADMIN@INSPECTLET.COM
+// ---
+zone "heatmaps.xyz" {type master; file "/etc/bind/db.nullroute";};
+zone "jsanalyticsserver.com" {type master; file "/etc/bind/db.nullroute";};
+zone "inspectlet.com" {type master; file "/etc/bind/db.nullroute";};
+zone "inspectlet.net" {type master; file "/etc/bind/db.nullroute";};
+zone "inspectlet.org" {type master; file "/etc/bind/db.nullroute";};
+zone "inspectlet.de" {type master; file "/etc/bind/db.nullroute";};
+zone "inspectlet.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "inspectlet.io" {type master; file "/etc/bind/db.nullroute";};
+zone "inpsectlet.com" {type master; file "/etc/bind/db.nullroute";};
+zone "inspectelt.com" {type master; file "/etc/bind/db.nullroute";};
+zone "apexmachinevices.com" {type master; file "/etc/bind/db.nullroute";};
+zone "digitalinfrahome.com" {type master; file "/etc/bind/db.nullroute";};
+zone "everlast-software.com" {type master; file "/etc/bind/db.nullroute";};
+zone "falcon-oms.com" {type master; file "/etc/bind/db.nullroute";};
+zone "netwebtechnology.org" {type master; file "/etc/bind/db.nullroute";};
+zone "opensourcecap.org" {type master; file "/etc/bind/db.nullroute";};
+
+// -- LogRocket / AppHub #SessionReplayAttacks
+// -- Registrant Name:	Ben Edelstein
+// -- Registrant Organization:	
+// -- Registrant Street:	62 Hancock Street
+// -- Registrant City:	Lexington
+// -- Registrant State/Province:	Massachusetts
+// -- Registrant Postal Code:	02420
+// -- Registrant Country:	US
+// -- Registrant Phone:	+1.7813256012
+// -- Registrant Phone Ext:
+// -- Registrant Fax:	
+// -- Registrant Fax Ext:
+// -- Registrant Email:	ben@apphub.io
+zone "logrocket.com" {type master; file "/etc/bind/db.nullroute";};
+zone "logrocket.io" {type master; file "/etc/bind/db.nullroute";};
+zone "apphub.io" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Mouseflow #SessionReplayAttacks
+zone "mouseflow.com" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.at" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.dk" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.fr" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.net" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.org" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.us" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.de" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.cz" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.nl" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.be" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.sk" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.co" {type master; file "/etc/bind/db.nullroute";};
+zone "mouseflow.eu" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Quantum Metric #SessionReplayAttacks
+// ---
+// -- Registrant Name: Mario Ciabarra
+// -- Registrant Organization: 
+// -- Registrant Street: 8427 Limekiln Pike
+// -- Registrant City: Wyncote
+// -- Registrant State/Province: Pennsylvania
+// -- Registrant Postal Code: 19095
+// -- Registrant Country: US
+// -- Registrant Phone: (215) 886-0215
+// -- Registrant Email: psuskeels@hotmail.com
+// ---
+zone "quantummetric.com" {type master; file "/etc/bind/db.nullroute";};
+zone "appsidy.com" {type master; file "/etc/bind/db.nullroute";};
+zone "blueoceanstudios.com" {type master; file "/etc/bind/db.nullroute";};
+zone "codebynature.com" {type master; file "/etc/bind/db.nullroute";};
+zone "highforesthoa.com" {type master; file "/etc/bind/db.nullroute";};
+zone "highforesthoa.net" {type master; file "/etc/bind/db.nullroute";};
+zone "indefinetly.com" {type master; file "/etc/bind/db.nullroute";};
+zone "intelliborn.com" {type master; file "/etc/bind/db.nullroute";};
+zone "intelliid.com" {type master; file "/etc/bind/db.nullroute";};
+zone "intelliscreenx.com" {type master; file "/etc/bind/db.nullroute";};
+zone "laredolofts.com" {type master; file "/etc/bind/db.nullroute";};
+zone "rockyourphone.org" {type master; file "/etc/bind/db.nullroute";};
+zone "swiperemoteapp.com" {type master; file "/etc/bind/db.nullroute";};
+
+
+// -- SaleMove #SessionReplayAttacks
+// ---
+// -- Registrant Name:	Carlos Paniagua
+// -- Registrant Organization:	SaleMove Inc.
+// -- Registrant Street:	Turu 2
+// -- Registrant City:	Estonia
+// -- Registrant Postal Code:	51013
+// -- Registrant Country:	EE
+// -- Registrant Phone:	+372.56861665
+// -- Registrant Email:	operations@salemove.com
+// ---
+zone "salemove.com" {type master; file "/etc/bind/db.nullroute";};
+zone "assistedfunnel.com" {type master; file "/etc/bind/db.nullroute";};
+zone "autobymove.com" {type master; file "/etc/bind/db.nullroute";};
+zone "salemove.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "salemove.net" {type master; file "/etc/bind/db.nullroute";};
+zone "salemove.org" {type master; file "/etc/bind/db.nullroute";};
+zone "salemove.us" {type master; file "/etc/bind/db.nullroute";};
+zone "salemovefromautobytel.com" {type master; file "/etc/bind/db.nullroute";};
+zone "salemovetravel.com" {type master; file "/etc/bind/db.nullroute";};
+zone "whiteglovecenter.com" {type master; file "/etc/bind/db.nullroute";};
+zone "salemove.chat" {type master; file "/etc/bind/db.nullroute";};
+zone "salemove.eu" {type master; file "/etc/bind/db.nullroute";};
+zone "salemove.ru" {type master; file "/etc/bind/db.nullroute";};
+
+// -- SessionCam #SessionReplayAttacks
+// ---
+// -- Registrant Name:	Paul Todd
+// -- Registrant Street:	St Vedast House
+// -- Registrant City:	St Vedast Street
+// -- Registrant Postal Code:	NR1 1BT
+// -- Registrant Country:	GB
+// -- Registrant Phone:	+44.1603618382
+// -- Registrant Email:	paul.todd@sessioncam.com
+// ---
+zone "sessioncam.com" {type master; file "/etc/bind/db.nullroute";};
+zone "sessioncam.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "sessioncam.io" {type master; file "/etc/bind/db.nullroute";};
+zone "sessioncam.net" {type master; file "/etc/bind/db.nullroute";};
+zone "sessioncam.org" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Visual Website Optimizer / VWO / Wingify / PushCrew #SessionReplayAttacks
+// ---
+// -- Registrant Name:	Sparsh Gupta
+// -- Registrant Organization:	Wingify Software Pvt. Ltd.
+// -- Registrant Street:	74 Vidya Vihar, Sector-9
+// -- Registrant Street:	Rohini
+// -- Registrant Street:
+// -- Registrant City:	Delhi
+// -- Registrant State/Province:
+// -- Registrant Postal Code:	110085
+// -- Registrant Country:	IN
+// -- Registrant Phone:	+91.1127563421
+// -- Registrant Email:	sparsh@wingify.com
+// ---
+// -- Registrant Name:	Sparsh Gupta
+// -- Registrant Organization:	Wingify
+// -- Registrant Street:	404 Gopal Heights
+// -- Registrant Street:	Netaji Subhash Place, Pitam Pura
+// -- Registrant City:	Delhi
+// -- Registrant State/Province:	Delhi
+// -- Registrant Postal Code:	110034
+// -- Registrant Country:	IN
+// -- Registrant Phone:	+91.9810570109
+// -- Registrant Email:	sparsh@wingify.com
+// ---
+zone "abtestingfox.com" {type master; file "/etc/bind/db.nullroute";};
+zone "anilchopra.com" {type master; file "/etc/bind/db.nullroute";};
+zone "bigwebanalytics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "commonpitch.com" {type master; file "/etc/bind/db.nullroute";};
+zone "contextsense.com" {type master; file "/etc/bind/db.nullroute";};
+zone "editify.com" {type master; file "/etc/bind/db.nullroute";};
+zone "errorwhy.com" {type master; file "/etc/bind/db.nullroute";};
+zone "feedbackmagic.com" {type master; file "/etc/bind/db.nullroute";};
+zone "getmogambo.com" {type master; file "/etc/bind/db.nullroute";};
+zone "gifplainer.com" {type master; file "/etc/bind/db.nullroute";};
+zone "gomogambo.in" {type master; file "/etc/bind/db.nullroute";};
+zone "landingpagemagic.com" {type master; file "/etc/bind/db.nullroute";};
+zone "marketingflock.com" {type master; file "/etc/bind/db.nullroute";};
+zone "myjugaad.in" {type master; file "/etc/bind/db.nullroute";};
+zone "primary.is" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew-mailer.com" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew.agency" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew.co" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew.com" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew.in" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew.info" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew.jp" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew.net" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew.org" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew.review" {type master; file "/etc/bind/db.nullroute";};
+zone "pushcrew.xyz" {type master; file "/etc/bind/db.nullroute";};
+zone "targetintent.com" {type master; file "/etc/bind/db.nullroute";};
+zone "usabilitybox.com" {type master; file "/etc/bind/db.nullroute";};
+zone "usabilityinbox.com" {type master; file "/etc/bind/db.nullroute";};
+zone "visualfunnel.com" {type master; file "/etc/bind/db.nullroute";};
+zone "visualfunnels.com" {type master; file "/etc/bind/db.nullroute";};
+zone "visualheatmap.com" {type master; file "/etc/bind/db.nullroute";};
+zone "visualsiteoptimizer.com" {type master; file "/etc/bind/db.nullroute";};
+zone "visualtargeter.com" {type master; file "/etc/bind/db.nullroute";};
+zone "visualweboptimizer.com" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteanalytics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteoptimiser.com" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteoptimizer.ae" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteoptimizer.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteoptimizer.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteoptimizer.com" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteoptimizer.in" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteoptimizer.info" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteoptimizer.org" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteoptimizer.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "visualwebsiteoptimizer.us" {type master; file "/etc/bind/db.nullroute";};
+zone "vwo.com" {type master; file "/etc/bind/db.nullroute";};
+zone "vwo.io" {type master; file "/etc/bind/db.nullroute";};
+zone "vwo.me" {type master; file "/etc/bind/db.nullroute";};
+zone "vwo.net" {type master; file "/etc/bind/db.nullroute";};
+zone "vwo.ninja" {type master; file "/etc/bind/db.nullroute";};
+zone "vwo.org" {type master; file "/etc/bind/db.nullroute";};
+zone "vwo.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "wignify.com" {type master; file "/etc/bind/db.nullroute";};
+zone "wingify.engineering" {type master; file "/etc/bind/db.nullroute";};
+zone "wingify.me" {type master; file "/etc/bind/db.nullroute";};
+zone "wingify.net" {type master; file "/etc/bind/db.nullroute";};
+zone "wingify.org" {type master; file "/etc/bind/db.nullroute";};
