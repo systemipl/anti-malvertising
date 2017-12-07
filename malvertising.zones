@@ -4998,7 +4998,35 @@ zone "smbeat.jp" {type master; file "/etc/bind/db.nullroute";};
 zone "smrtbeat.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- Amplitude
+// ---
+// -- Admin Name:	Curtis Liu
+// -- Admin Street:	185 Berry St Suite 5425
+// -- Admin City:	San Francisco
+// -- Admin State/Province:	CA
+// -- Admin Postal Code:	94107
+// -- Admin Country:	US
+// -- Admin Phone:	+1.9254527770
+// -- Admin Email:	accounts@amplitude.com
+// ---
+// -- Registrant Name:	Curtis Liu
+// -- Registrant Organization:
+// -- Registrant Street:	301 Mission St
+// -- Registrant Street:	Unit 9G
+// -- Registrant City:	San Francisco
+// -- Registrant State/Province:	California
+// -- Registrant Postal Code:	94105
+// -- Registrant Country:	US
+// -- Registrant Phone:	+1.9254527770
+// -- Registrant Phone Ext:
+// -- Registrant Fax:
+// -- Registrant Fax Ext:
+// -- Registrant Email:	silverrc21@gmail.com
+// ---
 zone "amplitude.com" {type master; file "/etc/bind/db.nullroute";};
+zone "amplitude.com.au" {type master; file "/etc/bind/db.nullroute";};
+zone "duplimate.com" {type master; file "/etc/bind/db.nullroute";};
+zone "productanalyticsplaybook.com" {type master; file "/etc/bind/db.nullroute";};
+zone "snlt.co" {type master; file "/etc/bind/db.nullroute";};
 zone "sonalight.com" {type master; file "/etc/bind/db.nullroute";};
 
 // - Airbridge | "jeegle team"
@@ -5907,13 +5935,13 @@ zone "youser-drivenmarketing.com" {type master; file "/etc/bind/db.nullroute";};
 zone "youserdriven-marketing.com" {type master; file "/etc/bind/db.nullroute";};
 zone "youserdrivenmarketing.com" {type master; file "/etc/bind/db.nullroute";};
 
-// -- Xamarin
+// -- Xamarin / MixPanel
 zone "xaapi.xamarin.com" {type master; file "/etc/bind/db.nullroute";};
 zone "insights-xaapi-prod.elasticbeanstalk.com" {type master; file "/etc/bind/db.nullroute";};
 zone "anluswang.com" {type master; file "/etc/bind/db.nullroute";};
 zone "mixpaneladvice.com" {type master; file "/etc/bind/db.nullroute";};
 zone "mixpanelplatform.com" {type master; file "/etc/bind/db.nullroute";};
-// zone "mxpnl.com" {type master; file "/etc/bind/db.nullroute";};
+zone "mxpnl.com" {type master; file "/etc/bind/db.nullroute";};
 zone "sufficientlyadvanced.net" {type master; file "/etc/bind/db.nullroute";};
 zone "sufficientlyadvanced.org" {type master; file "/etc/bind/db.nullroute";};
 zone "branch.io" {type master; file "/etc/bind/db.nullroute";};
@@ -5927,6 +5955,16 @@ zone "mobilegrowthconference.com" {type master; file "/etc/bind/db.nullroute";};
 zone "mobilegrowthhackers.com" {type master; file "/etc/bind/db.nullroute";};
 zone "pupuber.com" {type master; file "/etc/bind/db.nullroute";};
 zone "test-app.link" {type master; file "/etc/bind/db.nullroute";};
+zone "api-mixpanel.com" {type master; file "/etc/bind/db.nullroute";};
+zone "mobileappgrader.com" {type master; file "/etc/bind/db.nullroute";};
+zone "mixtraffic.com" {type master; file "/etc/bind/db.nullroute";};
+zone "mixpanel.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "mixpanel.io" {type master; file "/etc/bind/db.nullroute";};
+zone "mixpanel.net" {type master; file "/etc/bind/db.nullroute";};
+zone "mixpanel.org" {type master; file "/etc/bind/db.nullroute";};
+zone "iosanalytics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "iosanalytics.net" {type master; file "/etc/bind/db.nullroute";};
+zone "mixpanel.co" {type master; file "/etc/bind/db.nullroute";};
 
 // Special case for n7player
 zone "analytics.n7mobile.com" {type master; file "/etc/bind/db.nullroute";};
@@ -21643,3 +21681,43 @@ zone "shantigrammailer.com" {type master; file "/etc/bind/db.nullroute";};
 zone "singleplatform.com" {type master; file "/etc/bind/db.nullroute";};
 zone "stopuglyemail.com" {type master; file "/etc/bind/db.nullroute";};
 zone "imgconstantcontact.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- CrazyEgg / KISSMetrics / Product Planner #SessionReplayAttacks
+zone "crazyegg.com" {type master; file "/etc/bind/db.nullroute";};
+zone "crazyegg.co" {type master; file "/etc/bind/db.nullroute";};
+zone "crazyegg.us" {type master; file "/etc/bind/db.nullroute";};
+zone "kissmetrics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "productplanner.com" {type master; file "/etc/bind/db.nullroute";};
+zone "productplanner.net" {type master; file "/etc/bind/db.nullroute";};
+zone "productplanner.org" {type master; file "/etc/bind/db.nullroute";};
+zone "kiss.ly" {type master; file "/etc/bind/db.nullroute";};
+zone "kissmetrics.blog" {type master; file "/etc/bind/db.nullroute";};
+zone "kissmetrics.co" {type master; file "/etc/bind/db.nullroute";};
+zone "kissmetrics.info" {type master; file "/etc/bind/db.nullroute";};
+zone "kissmetrics.mobi" {type master; file "/etc/bind/db.nullroute";};
+zone "kissmetrics.net" {type master; file "/etc/bind/db.nullroute";};
+zone "kissmetrics.org" {type master; file "/etc/bind/db.nullroute";};
+zone "klck.me" {type master; file "/etc/bind/db.nullroute";};
+zone "kmproxy.net" {type master; file "/etc/bind/db.nullroute";};
+zone "kmstatus.com" {type master; file "/etc/bind/db.nullroute";};
+zone "userretention.com" {type master; file "/etc/bind/db.nullroute";};
+zone "kissmetrics.us" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Taplytics #MobileAnalytics
+// ---
+// -- Registrant Name:	Andrew Norris
+// -- Registrant Organization:	Taplytics Inc.
+// -- Registrant Street:	333 Bryant Street, Suite 125
+// -- Registrant City:	San Francisco
+// -- Registrant State/Province:	California
+// -- Registrant Postal Code:	94107
+// -- Registrant Country:	US
+// -- Registrant Phone:	+1.8662300090
+// -- Registrant Email:	contact@taplytics.com
+// ---
+zone "appvariate.com" {type master; file "/etc/bind/db.nullroute";};
+zone "gettapalytics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "growsf.co" {type master; file "/etc/bind/db.nullroute";};
+zone "taplytics.co" {type master; file "/etc/bind/db.nullroute";};
+zone "taplytics.com" {type master; file "/etc/bind/db.nullroute";};
+zone "taplytics.net" {type master; file "/etc/bind/db.nullroute";};
