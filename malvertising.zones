@@ -19364,6 +19364,7 @@ zone "exacttarget.tv" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.us" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.vip" {type master; file "/etc/bind/db.nullroute";};
 zone "exacttarget.ws" {type master; file "/etc/bind/db.nullroute";};
+zone "exacttarget.com.edgesuite.net" {type master; file "/etc/bind/db.nullroute";};
 
 // -- CheetahMail (now owned by Experian) email spying
 zone "cheetahmail.com" {type master; file "/etc/bind/db.nullroute";};
@@ -21721,3 +21722,21 @@ zone "growsf.co" {type master; file "/etc/bind/db.nullroute";};
 zone "taplytics.co" {type master; file "/etc/bind/db.nullroute";};
 zone "taplytics.com" {type master; file "/etc/bind/db.nullroute";};
 zone "taplytics.net" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Bombora (now owned by Salesforce) #AnalyticsAreSpyware
+// ---
+// -- Admin Organization:	Bombora
+// -- Admin Street:	257 Park Ave S Fl 6
+// -- Admin City:	New York
+// -- Admin State/Province:	New York
+// -- Admin Postal Code:	10010
+// -- Admin Country:	US
+// -- Admin Phone:	+1.7184122401
+// -- Admin Email:	hostmaster@bombora.com
+// ---
+zone "bombora.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ml314.com" {type master; file "/etc/bind/db.nullroute";};
+zone "bombora.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "bomboradata.com" {type master; file "/etc/bind/db.nullroute";};
+zone "bomboradata.net" {type master; file "/etc/bind/db.nullroute";};
+zone "bomboradata.org" {type master; file "/etc/bind/db.nullroute";};
