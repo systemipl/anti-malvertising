@@ -21904,3 +21904,20 @@ zone "opt-inleads.org" {type master; file "/etc/bind/db.nullroute";};
 zone "reise-umfrage.com" {type master; file "/etc/bind/db.nullroute";};
 zone "technik-testen.com" {type master; file "/etc/bind/db.nullroute";};
 zone "e2ma.new" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Cordial Experience / Bandfarm, Inc. / Merchmaster #EmailSpying
+// ---
+// -- Registrant Name:    Adam Gillespie
+// -- Registrant Organization:    Cordial Experience
+// -- Registrant Street:  PO Box 307
+// -- Registrant City:    Lakeside
+// -- Registrant State/Province:  CA
+// -- Registrant Postal Code:  92040
+// -- Registrant Country: US
+// -- Registrant Phone:   +1.6199809553
+// -- Registrant Email:   agillespie@cordial.io
+// ---
+zone "crdl.io" {type master; file "/etc/bind/db.nullroute";};
+zone "cordial.io" {type master; file "/etc/bind/db.nullroute";};
+zone "cordial.com" {type master; file "/etc/bind/db.nullroute";};
+zone "d1ok0qgebci2d3.cloudfront.net" {type master; file "/etc/bind/db.nullroute";};
