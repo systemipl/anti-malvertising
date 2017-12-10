@@ -21921,3 +21921,4 @@ zone "crdl.io" {type master; file "/etc/bind/db.nullroute";};
 zone "cordial.io" {type master; file "/etc/bind/db.nullroute";};
 zone "cordial.com" {type master; file "/etc/bind/db.nullroute";};
 zone "d1ok0qgebci2d3.cloudfront.net" {type master; file "/etc/bind/db.nullroute";};
+zone "cordialiot.com" {type master; file "/etc/bind/db.nullroute";};
