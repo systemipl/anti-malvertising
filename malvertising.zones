@@ -22085,3 +22085,16 @@ zone "wwwsendgrid.info" {type master; file "/etc/bind/db.nullroute";};
 zone "wwwsendgrid.mobi" {type master; file "/etc/bind/db.nullroute";};
 zone "wwwsendgrid.org" {type master; file "/etc/bind/db.nullroute";};
 zone "wwwsendgrid.us" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Batmobi #AnalyticsAreSpyware
+zone "batcloud.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "batcloud.com.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "batmobi.net" {type master; file "/etc/bind/db.nullroute";};
+zone "batmobi.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "batmobi.com" {type master; file "/etc/bind/db.nullroute";};
+zone "batcloud.info" {type master; file "/etc/bind/db.nullroute";};
+zone "batcloud.io" {type master; file "/etc/bind/db.nullroute";};
+
+// -- MoSite #AnalyticsAreSpyware
+zone "mosite.in" {type master; file "/etc/bind/db.nullroute";};
+zone "mobpower.com" {type master; file "/etc/bind/db.nullroute";};
