@@ -22095,6 +22095,15 @@ zone "batmobi.com" {type master; file "/etc/bind/db.nullroute";};
 zone "batcloud.info" {type master; file "/etc/bind/db.nullroute";};
 zone "batcloud.io" {type master; file "/etc/bind/db.nullroute";};
 
-// -- MoSite #AnalyticsAreSpyware
+// -- MoSite / MobilePower / Seventh Wave Media #AnalyticsAreSpyware
 zone "mosite.in" {type master; file "/etc/bind/db.nullroute";};
 zone "mobpower.com" {type master; file "/etc/bind/db.nullroute";};
+zone "mobpowertech.com" {type master; file "/etc/bind/db.nullroute";};
+zone "mosite.co" {type master; file "/etc/bind/db.nullroute";};
+zone "mosite.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "mosite.info" {type master; file "/etc/bind/db.nullroute";};
+zone "mosite.org" {type master; file "/etc/bind/db.nullroute";};
+zone "mosite.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "mosite.tk" {type master; file "/etc/bind/db.nullroute";};
+zone "seventhwavemedia.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "seventhwavemedia.com" {type master; file "/etc/bind/db.nullroute";};
