@@ -53,6 +53,7 @@ zone "charsoftware.mobi" {type master; file "/etc/bind/db.nullroute";};
 zone "charsoftware.net" {type master; file "/etc/bind/db.nullroute";};
 zone "charsoftware.org" {type master; file "/etc/bind/db.nullroute";};
 zone "data.flurry.com" {type master; file "/etc/bind/db.nullroute";};
+zone "flurry.com" {type master; file "/etc/bind/db.nullroute";};
 zone "localitics.com" {type master; file "/etc/bind/db.nullroute";};
 zone "localytic.com" {type master; file "/etc/bind/db.nullroute";};
 zone "localytics.com" {type master; file "/etc/bind/db.nullroute";};
@@ -16967,6 +16968,8 @@ zone "ampeeri.net" {type master; file "/etc/bind/db.nullroute";};
 zone "ampeeri.org" {type master; file "/etc/bind/db.nullroute";};
 zone "ampeeri.ru" {type master; file "/etc/bind/db.nullroute";};
 zone "ampiri.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "api.ampiri.com" {type master; file "/etc/bind/db.nullroute";};
+zone "signals.ampiri.com" {type master; file "/etc/bind/db.nullroute";};
 zone "ampiri.com" {type master; file "/etc/bind/db.nullroute";};
 zone "ampiri.info" {type master; file "/etc/bind/db.nullroute";};
 zone "ampiri.net" {type master; file "/etc/bind/db.nullroute";};
@@ -22107,3 +22110,9 @@ zone "mosite.ru" {type master; file "/etc/bind/db.nullroute";};
 zone "mosite.tk" {type master; file "/etc/bind/db.nullroute";};
 zone "seventhwavemedia.co.uk" {type master; file "/etc/bind/db.nullroute";};
 zone "seventhwavemedia.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Hashing.win cryptocurrency miner #Cryptojacking
+zone "hashing.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "hashing.eu" {type master; file "/etc/bind/db.nullroute";};
+zone "hashing.info" {type master; file "/etc/bind/db.nullroute";};
+zone "hashing.win" {type master; file "/etc/bind/db.nullroute";};
