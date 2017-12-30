@@ -22116,3 +22116,25 @@ zone "hashing.cn" {type master; file "/etc/bind/db.nullroute";};
 zone "hashing.eu" {type master; file "/etc/bind/db.nullroute";};
 zone "hashing.info" {type master; file "/etc/bind/db.nullroute";};
 zone "hashing.win" {type master; file "/etc/bind/db.nullroute";};
+
+// -- i-mobile #MobileAdvertising
+zone "i-mobile.co.jp" {type master; file "/etc/bind/db.nullroute";};
+zone "a-mobile.genieesspv.jp" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Alphonso.tv / Alphonso #SmartTVSpying #MobileSpying #MicrophoneListening
+// --- 
+// Registrant Name:	Ashish Chordia
+// Registrant Street:	1000 Foster City Blvd, 6209
+// Registrant City:	San Mateo
+// Registrant State/Province:	CA
+// Registrant Postal Code:	94404
+// Registrant Country:	US
+// Registrant Phone:	+1.4084064636
+// Registrant Email:	ashishchordia@gmail.com
+// ---
+zone "alphonsoinc.com" {type master; file "/etc/bind/db.nullroute";};
+zone "alphonso.tv" {type master; file "/etc/bind/db.nullroute";};
+zone "acrdb.alphonso.tv" {type master; file "/etc/bind/db.nullroute";};
+zone "api.alphonso.tv" {type master; file "/etc/bind/db.nullroute";};
+zone "clockskew.alphonso.tv" {type master; file "/etc/bind/db.nullroute";};
+zone "prov.alphonso.tv" {type master; file "/etc/bind/db.nullroute";};
