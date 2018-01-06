@@ -5760,12 +5760,14 @@ zone "giaf.net" {type master; file "/etc/bind/db.nullroute";};
 zone "deltadna.io" {type master; file "/etc/bind/db.nullroute";};
 zone "gameanalytics.at" {type master; file "/etc/bind/db.nullroute";};
 zone "gameanalytics.co" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.co.uk" {type master; file "/etc/bind/db.nullroute";};
 zone "gameanalytics.com" {type master; file "/etc/bind/db.nullroute";};
 zone "gameanalytics.de" {type master; file "/etc/bind/db.nullroute";};
 zone "gameanalytics.fr" {type master; file "/etc/bind/db.nullroute";};
 zone "gameanalytics.it" {type master; file "/etc/bind/db.nullroute";};
 zone "gameanalytics.net" {type master; file "/etc/bind/db.nullroute";};
 zone "gameanalytics.org" {type master; file "/etc/bind/db.nullroute";};
+zone "gameanalytics.org.uk" {type master; file "/etc/bind/db.nullroute";};
 zone "gameanalytics.ru" {type master; file "/etc/bind/db.nullroute";};
 zone "gameanalytics.us" {type master; file "/etc/bind/db.nullroute";};
 zone "gamesanalytics.de" {type master; file "/etc/bind/db.nullroute";};
@@ -22138,3 +22140,19 @@ zone "acrdb.alphonso.tv" {type master; file "/etc/bind/db.nullroute";};
 zone "api.alphonso.tv" {type master; file "/etc/bind/db.nullroute";};
 zone "clockskew.alphonso.tv" {type master; file "/etc/bind/db.nullroute";};
 zone "prov.alphonso.tv" {type master; file "/etc/bind/db.nullroute";};
+
+// -- TrackJS #Analytics
+// ---
+// Registrant Name:	TODD GARDNER
+// Registrant Organization:	TRACKJS LLC
+// Registrant Street:	215 PINE ST W
+// Registrant City:	STILLWATER
+// Registrant State/Province:	MN
+// Registrant Postal Code:	55082
+// Registrant Country:	US
+// Registrant Phone:	+1.6129633091
+// Registrant Email:	HELLO@TRACKJS.COM
+// ---
+zone "trackjs.com" {type master; file "/etc/bind/db.nullroute";};
+zone "monitorjs.com" {type master; file "/etc/bind/db.nullroute";};
+zone "tkjs.us" {type master; file "/etc/bind/db.nullroute";};
