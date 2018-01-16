@@ -22156,3 +22156,9 @@ zone "prov.alphonso.tv" {type master; file "/etc/bind/db.nullroute";};
 zone "trackjs.com" {type master; file "/etc/bind/db.nullroute";};
 zone "monitorjs.com" {type master; file "/etc/bind/db.nullroute";};
 zone "tkjs.us" {type master; file "/etc/bind/db.nullroute";};
+
+// -- #CryptojackingMaybe
+zone "disedet.info" {type master; file "/etc/bind/db.nullroute";};
+zone "climbering.info" {type master; file "/etc/bind/db.nullroute";};
+zone "wapnrjqhtmm.bid" {type master; file "/etc/bind/db.nullroute";};
+zone "jmbyjmeleib.bid" {type master; file "/etc/bind/db.nullroute";};
