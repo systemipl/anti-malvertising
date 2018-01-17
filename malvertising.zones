@@ -4495,24 +4495,52 @@ zone "ticketdeck.net" {type master; file "/etc/bind/db.nullroute";};
 // -- Microsoft Telemetry
 zone "telemetry.remoteapp.windowsazure.com" {type master; file "/etc/bind/db.nullroute";};
 
-// -- Vungle
-zone "vungie.com" {type master; file "/etc/bind/db.nullroute";};
-zone "vunglecares.com" {type master; file "/etc/bind/db.nullroute";};
-zone "vunglecares.org" {type master; file "/etc/bind/db.nullroute";};
-zone "vunglelabs.com" {type master; file "/etc/bind/db.nullroute";};
-zone "vunglelist.com" {type master; file "/etc/bind/db.nullroute";};
-zone "vungle.io" {type master; file "/etc/bind/db.nullroute";};
-zone "vungle.org" {type master; file "/etc/bind/db.nullroute";};
-zone "vungol.com" {type master; file "/etc/bind/db.nullroute";};
-zone "vungul.com" {type master; file "/etc/bind/db.nullroute";};
-
 // -- AdColony
+// ---
+// Registrant Name:	Joshua Conner
+// Registrant Organization:	Jirbo, Inc.
+// Registrant Street:	149 South Barrington #710
+// Registrant City:	Los Angeles
+// Registrant State/Province:	California
+// Registrant Postal Code:	90049
+// Registrant Country:	US
+// Registrant Phone:	+1.3108708100
+// Registrant Email:	accounting@adcolony.com
+// ---
+// Registrant Name:	Nicolas Agnese
+// Registrant Organization:
+// Registrant Street:	Arcos 2215
+// Registrant Street:	7mo piso
+// Registrant City:	Belgrano
+// Registrant State/Province:	CABA
+// Registrant Postal Code:	C1428AFH
+// Registrant Country:	AR
+// Registrant Phone:	+54.1147841887
+// Registrant Email:	performance-latam@adcolony.com
+// ---
 zone "adcolony.com" {type master; file "/etc/bind/db.nullroute";};
 zone "adcolony.net" {type master; file "/etc/bind/db.nullroute";};
 zone "adcolony.org" {type master; file "/etc/bind/db.nullroute";};
 zone "adcolony.mobi" {type master; file "/etc/bind/db.nullroute";};
 zone "wd.adcolony.com" {type master; file "/etc/bind/db.nullroute";};
 zone "adc3-launch.adcolony.com" {type master; file "/etc/bind/db.nullroute";};
+zone "directa.mobi" {type master; file "/etc/bind/db.nullroute";};
+zone "opera-ads.us" {type master; file "/etc/bind/db.nullroute";};
+zone "huntmad.com" {type master; file "/etc/bind/db.nullroute";};
+zone "huntmads.com" {type master; file "/etc/bind/db.nullroute";};
+zone "huntmob.com" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.click" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.cloud" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.co" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.co.za" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.de" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.link" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.pw" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.tv" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony.xyz" {type master; file "/etc/bind/db.nullroute";};
 
 // -- InMobi
 zone "advine.com" {type master; file "/etc/bind/db.nullroute";};
@@ -5971,8 +5999,6 @@ zone "mixpanel.co" {type master; file "/etc/bind/db.nullroute";};
 
 // Special case for n7player
 zone "analytics.n7mobile.com" {type master; file "/etc/bind/db.nullroute";};
-
-// -- Vungle
 
 // -- Axonix / Mobclix
 zone "axonixads.com" {type master; file "/etc/bind/db.nullroute";};
@@ -7976,7 +8002,7 @@ zone "dec-api-server2.cloudapp.net" {type master; file "/etc/bind/db.nullroute";
 // zone "p01.t.eloqua.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- RevMob
-// zone "revmob.com" {type master; file "/etc/bind/db.nullroute";};
+zone "revmob.com" {type master; file "/etc/bind/db.nullroute";};
 zone "revmobads.com" {type master; file "/etc/bind/db.nullroute";};
 zone "techmobcorp.com" {type master; file "/etc/bind/db.nullroute";};
 zone "techmobcorporation.com" {type master; file "/etc/bind/db.nullroute";};
@@ -22162,3 +22188,54 @@ zone "disedet.info" {type master; file "/etc/bind/db.nullroute";};
 zone "climbering.info" {type master; file "/etc/bind/db.nullroute";};
 zone "wapnrjqhtmm.bid" {type master; file "/etc/bind/db.nullroute";};
 zone "jmbyjmeleib.bid" {type master; file "/etc/bind/db.nullroute";};
+
+// -- webassembly.stream #Cryptojacking
+zone "webassembly.stream" {type master; file "/etc/bind/db.nullroute";};
+zone "moradu.com" {type master; file "/etc/bind/db.nullroute";};
+zone "boostads.site" {type master; file "/etc/bind/db.nullroute";};
+zone "mediapalmtree.com" {type master; file "/etc/bind/db.nullroute";};
+zone "boostads.info" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Vungle #VideoAdvertising #MobileAdvertising
+// ---
+// Registrant Name:	Vince DePalma
+// Registrant Organization:	Vungle, Inc
+// Registrant Street:	185 Clara St
+// Registrant City:	San Francisco
+// Registrant State/Province:	CA
+// Registrant Postal Code:	94107
+// Registrant Country:	US
+// Registrant Phone:	+1.4158001400
+// Registrant Email:	vincent.depalma@vungle.com
+// ---
+zone "vungie.com" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.ca" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.click" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.cloud" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.co.jp" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.co.kr" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.co.uk" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.com.br" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.com.hk" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.com.mx" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.es" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.eu" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.fr" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.hk" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.io" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.it" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.jp" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.kr" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.link" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.mx" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.org" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.pw" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "vungle.se" {type master; file "/etc/bind/db.nullroute";};
+zone "vunglecares.com" {type master; file "/etc/bind/db.nullroute";};
+zone "vunglecares.org" {type master; file "/etc/bind/db.nullroute";};
+zone "vunglelabs.com" {type master; file "/etc/bind/db.nullroute";};
+zone "vunglelist.com" {type master; file "/etc/bind/db.nullroute";};
+zone "vungol.com" {type master; file "/etc/bind/db.nullroute";};
+zone "vungul.com" {type master; file "/etc/bind/db.nullroute";};
