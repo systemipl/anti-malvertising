@@ -4541,6 +4541,12 @@ zone "adcolony.pw" {type master; file "/etc/bind/db.nullroute";};
 zone "adcolony.ru" {type master; file "/etc/bind/db.nullroute";};
 zone "adcolony.tv" {type master; file "/etc/bind/db.nullroute";};
 zone "adcolony.xyz" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony-api.com" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolony-performancemedia.com" {type master; file "/etc/bind/db.nullroute";};
+zone "adcolonyid.com" {type master; file "/etc/bind/db.nullroute";};
+zone "movenowday-id.com" {type master; file "/etc/bind/db.nullroute";};
+zone "pandu-labs.com" {type master; file "/etc/bind/db.nullroute";};
+zone "xax-idproject.com" {type master; file "/etc/bind/db.nullroute";};
 
 // -- InMobi
 zone "advine.com" {type master; file "/etc/bind/db.nullroute";};
