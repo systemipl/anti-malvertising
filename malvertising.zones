@@ -22245,3 +22245,30 @@ zone "vunglelabs.com" {type master; file "/etc/bind/db.nullroute";};
 zone "vunglelist.com" {type master; file "/etc/bind/db.nullroute";};
 zone "vungol.com" {type master; file "/etc/bind/db.nullroute";};
 zone "vungul.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- CoinPot #Cryptojacking
+// ---
+// Registrant Name:	Linar Khakimov
+// Registrant Organization:	CoinPot LTD
+// Registrant Street1:	Gafiatullina
+// Registrant City:	Almetyevsk
+// Registrant State/Province:	RT
+// Registrant Postal Code:	423450
+// Registrant Country:	RU
+// Registrant Phone:	+7.9869175218
+// Registrant Email:	khakimov_linar@bk.ru
+// ---
+zone "coinpot.co" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.cf" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.co.in" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.com" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.eu" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.in" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.io" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.kr" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.me" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.org" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.tk" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.win" {type master; file "/etc/bind/db.nullroute";};
+zone "coinpot.xyz" {type master; file "/etc/bind/db.nullroute";};
