@@ -382,7 +382,6 @@ zone "yeahmobi.org" {type master; file "/etc/bind/db.nullroute";};
 zone "yeahmobivk.com" {type master; file "/etc/bind/db.nullroute";};
 zone "yeahtool.com" {type master; file "/etc/bind/db.nullroute";};
 zone "ymtracking.com" {type master; file "/etc/bind/db.nullroute";};
-zone "umeng.com" {type master; file "/etc/bind/db.nullroute";};
 zone "eleximg.com" {type master; file "/etc/bind/db.nullroute";};
 zone "elexapp.com" {type master; file "/etc/bind/db.nullroute";};
 zone "xingcloud.com" {type master; file "/etc/bind/db.nullroute";};
@@ -22272,3 +22271,33 @@ zone "coinpot.ru" {type master; file "/etc/bind/db.nullroute";};
 zone "coinpot.tk" {type master; file "/etc/bind/db.nullroute";};
 zone "coinpot.win" {type master; file "/etc/bind/db.nullroute";};
 zone "coinpot.xyz" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Adobe Email Campaigns #EmailSpying
+zone "campaign.adobe.com" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Umeng (Baidu analytics) #AnalyticsAreSpyware
+zone "umeng.com" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.click" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.cloud" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.co" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.link" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.net" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.us" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.com.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.sinaapp.com" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.baijia.baidu.com" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.co.sky-dio.com" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.cc" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.cf" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.cn" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.hk" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.info" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.mobi" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.org" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.pw" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.space" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.store" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.tk" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.top" {type master; file "/etc/bind/db.nullroute";};
+zone "umeng.vip" {type master; file "/etc/bind/db.nullroute";};
