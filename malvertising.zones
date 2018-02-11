@@ -22301,3 +22301,83 @@ zone "umeng.store" {type master; file "/etc/bind/db.nullroute";};
 zone "umeng.tk" {type master; file "/etc/bind/db.nullroute";};
 zone "umeng.top" {type master; file "/etc/bind/db.nullroute";};
 zone "umeng.vip" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Appnext (formerly AppHome) #AnalyticsAreSpyware
+// ---
+// Registrant Name:	Appnext Ltd
+// Registrant Organization:	Appnext Ltd
+// Registrant Street:	Road Town, Drake Chambers
+// Registrant City:	Tortola
+// Registrant State/Province:	Not Applicable
+// Registrant Postal Code:	3321
+// Registrant Country:	VG
+// Registrant Phone:	+357-25-279220
+// Registrant Phone Ext:
+// Registrant Fax:
+// Registrant Fax Ext:
+// Registrant Email:	admin@appnext.com
+// ---
+// Registrant Name:	Oleg Mihailovich Pasko
+// Registrant Street:	Gagarina
+// Registrant City:	Cherkassy
+// Registrant State/Province:	Ukraine
+// Registrant Postal Code:	18001
+// Registrant Country:	UA
+// Registrant Phone:	+380.674453282
+// Registrant Email:	olegpasko@gmail.com
+// ---
+// Registrant Name:	Costas Alexandrou
+// Registrant Organization:	Appnext LTD
+// Registrant Street:	Intershore Chambers
+// Registrant City:	Tortola
+// Registrant State/Province:
+// Registrant Postal Code:	3321
+// Registrant Country:	VG
+// Registrant Phone:	+1.972544553456
+// Registrant Email:	admin@appnext.com
+// ---
+// ----- This one is tenuous... -----
+// Registrant Name:	Gal Profeta
+// Registrant Organization:	Prime Online Ltd
+// Registrant Street:	P.O. Box 52152
+// Registrant City:	Limassol
+// Registrant State/Province:	Limassol
+// Registrant Postal Code:	CH-8001
+// Registrant Country:	CY
+// Registrant Phone:	+357.25279220
+// Registrant Email:	gal.p@primegaming.com
+// Registry Admin ID:	C170464698-LROR
+// ---
+zone "appnext.biz" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.com" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.net" {type master; file "/etc/bind/db.nullroute";};
+zone "appnextads.com" {type master; file "/etc/bind/db.nullroute";};
+zone "appnextmail.com" {type master; file "/etc/bind/db.nullroute";};
+zone "jackpotrushmail.com" {type master; file "/etc/bind/db.nullroute";};
+zone "top-best-apps.com" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.de" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.ir" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.it" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.jp" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.nl" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.online" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.ru" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.us" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.com.br" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.hs.llnwd.net" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext-1.hs.llnwd.net" {type master; file "/etc/bind/db.nullroute";};
+zone "cdn2.appnext.com" {type master; file "/etc/bind/db.nullroute";};
+zone "admin.appnext.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ads.appnext.com" {type master; file "/etc/bind/db.nullroute";};
+zone "api.appnext.com" {type master; file "/etc/bind/db.nullroute";};
+zone "cdn3.appnext.com" {type master; file "/etc/bind/db.nullroute";};
+zone "dsp.appnext.com" {type master; file "/etc/bind/db.nullroute";};
+zone "global.appnext.com" {type master; file "/etc/bind/db.nullroute";};
+zone "images.appnext.com" {type master; file "/etc/bind/db.nullroute";};
+zone "ox.appnext.com" {type master; file "/etc/bind/db.nullroute";};
+zone "selfservice.appnext.com" {type master; file "/etc/bind/db.nullroute";};
+// zone "appnext.fr" {type master; file "/etc/bind/db.nullroute";};
+// zone "yesapp.xyz" {type master; file "/etc/bind/db.nullroute";};
+zone "yesapp.fr" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.info" {type master; file "/etc/bind/db.nullroute";};
+zone "appnext.me" {type master; file "/etc/bind/db.nullroute";};
