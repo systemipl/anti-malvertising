@@ -17972,7 +17972,7 @@ zone "leadboltaps.com" {type master; file "/etc/bind/db.nullroute";};
 zone "leadboltapps.com" {type master; file "/etc/bind/db.nullroute";};
 zone "leadboltapps.net" {type master; file "/etc/bind/db.nullroute";};
 
-// -- AdStream / MediaBrix / Receptiv
+// -- AdStream / MediaBrix / Receptiv #MobileAdvertising
 zone "adbank.me" {type master; file "/etc/bind/db.nullroute";};
 zone "ads-j.com" {type master; file "/etc/bind/db.nullroute";};
 zone "adsend.co.nz" {type master; file "/etc/bind/db.nullroute";};
