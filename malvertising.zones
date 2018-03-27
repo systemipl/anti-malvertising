@@ -22381,3 +22381,21 @@ zone "selfservice.appnext.com" {type master; file "/etc/bind/db.nullroute";};
 zone "yesapp.fr" {type master; file "/etc/bind/db.nullroute";};
 zone "appnext.info" {type master; file "/etc/bind/db.nullroute";};
 zone "appnext.me" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Daum Advertising
+zone "ad.daum.net" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Cauly / Futurestream Networks
+zone "bs1n.co" {type master; file "/etc/bind/db.nullroute";};
+zone "bs1n.com" {type master; file "/etc/bind/db.nullroute";};
+zone "bs1n.net" {type master; file "/etc/bind/db.nullroute";};
+zone "cauly.co.kr" {type master; file "/etc/bind/db.nullroute";};
+zone "cauly.net" {type master; file "/etc/bind/db.nullroute";};
+zone "dksl.asia" {type master; file "/etc/bind/db.nullroute";};
+zone "fsnasia.net" {type master; file "/etc/bind/db.nullroute";};
+zone "maxsvr.net" {type master; file "/etc/bind/db.nullroute";};
+zone "qewr.asia" {type master; file "/etc/bind/db.nullroute";};
+zone "qewr.org" {type master; file "/etc/bind/db.nullroute";};
+
+// -- Tad
+zone "t-ad.co.kr" {type master; file "/etc/bind/db.nullroute";};
